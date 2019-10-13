@@ -1,0 +1,4 @@
+#Sun Oct 13 10:43:45 PDT 2019
+base.0=/Users/league/Desktop/HelloToast/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
